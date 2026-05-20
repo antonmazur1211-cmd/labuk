@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 92c4b77c5e1134d918c9e07ad67acbe0b15bfa53 Dmytro Klepak <dmitrooleksandrovic33@gmail.com> 1779277291 +0200	branch: Created from HEAD
+92c4b77c5e1134d918c9e07ad67acbe0b15bfa53 f4536c96fc324fef2104992a6578764427a2e3ff Dmytro Klepak <dmitrooleksandrovic33@gmail.com> 1779277391 +0200	commit: Initial commit: Antonmazur FastAPI project with JWT auth

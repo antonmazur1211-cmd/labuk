@@ -1,0 +1,12 @@
+﻿__pycache__/
+.venv/
+.env
+*.pyc
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+poetry.lock
+test_*.ps1
+*.http

@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 42b09320d24f8d154dbcdde555a59223e6c39bc0 Dmytro Klepak <dmitrooleksandrovic33@gmail.com> 1777731297 +0200	branch: Created from HEAD
+42b09320d24f8d154dbcdde555a59223e6c39bc0 c5f99e1b23f69e3aebd56179ace52cdcfe90be2d Dmytro Klepak <dmitrooleksandrovic33@gmail.com> 1777734416 +0200	commit: Lab3: Add CRUD for users with Pydantic validation and routers
+c5f99e1b23f69e3aebd56179ace52cdcfe90be2d 4885db405ec1d2cfb765c957b39f5133f878275f Dmytro Klepak <dmitrooleksandrovic33@gmail.com> 1777737209 +0200	commit: Lab5: Add JWT authentication with cookies, password hashing, protected endpoints
+4885db405ec1d2cfb765c957b39f5133f878275f f698d831481d3508161b44db98bd5da9c498ff23 Dmytro Klepak <dmitrooleksandrovic33@gmail.com> 1778065852 +0200	commit: Initial commit: Antonmazur FastAPI project with JWT authentication
+f698d831481d3508161b44db98bd5da9c498ff23 943773d265c6380b18c8d6b5216a4dc90168ed08 Dmytro Klepak <dmitrooleksandrovic33@gmail.com> 1778066131 +0200	commit: Initial commit: Antonmazur FastAPI project with JWT authentication
+943773d265c6380b18c8d6b5216a4dc90168ed08 b2640bcd8aa63eadf36e340815a24cd3897ec3ab Dmytro Klepak <dmitrooleksandrovic33@gmail.com> 1778066766 +0200	commit: Lab5: Додано FastAPI проект з JWT та налаштованим .gitignore

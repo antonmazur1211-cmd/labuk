@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 92c4b77c5e1134d918c9e07ad67acbe0b15bfa53 Dmytro Klepak <dmitrooleksandrovic33@gmail.com> 1779277274 +0200	commit (initial): Initial commit: Antonmazur FastAPI project
+92c4b77c5e1134d918c9e07ad67acbe0b15bfa53 92c4b77c5e1134d918c9e07ad67acbe0b15bfa53 Dmytro Klepak <dmitrooleksandrovic33@gmail.com> 1779277291 +0200	checkout: moving from master to develop
+92c4b77c5e1134d918c9e07ad67acbe0b15bfa53 f4536c96fc324fef2104992a6578764427a2e3ff Dmytro Klepak <dmitrooleksandrovic33@gmail.com> 1779277391 +0200	commit: Initial commit: Antonmazur FastAPI project with JWT auth
+f4536c96fc324fef2104992a6578764427a2e3ff f4536c96fc324fef2104992a6578764427a2e3ff Dmytro Klepak <dmitrooleksandrovic33@gmail.com> 1779277483 +0200	checkout: moving from develop to lab5/auth
+f4536c96fc324fef2104992a6578764427a2e3ff f4536c96fc324fef2104992a6578764427a2e3ff Dmytro Klepak <dmitrooleksandrovic33@gmail.com> 1779277483 +0200	checkout: moving from lab5/auth to lab5/crud
+f4536c96fc324fef2104992a6578764427a2e3ff f4536c96fc324fef2104992a6578764427a2e3ff Dmytro Klepak <dmitrooleksandrovic33@gmail.com> 1779277483 +0200	checkout: moving from lab5/crud to lab6/docker
+f4536c96fc324fef2104992a6578764427a2e3ff f4536c96fc324fef2104992a6578764427a2e3ff Dmytro Klepak <dmitrooleksandrovic33@gmail.com> 1779277483 +0200	checkout: moving from lab6/docker to lab5/auth
+f4536c96fc324fef2104992a6578764427a2e3ff f4536c96fc324fef2104992a6578764427a2e3ff Dmytro Klepak <dmitrooleksandrovic33@gmail.com> 1779277483 +0200	checkout: moving from lab5/auth to lab5/crud
+f4536c96fc324fef2104992a6578764427a2e3ff 0000000000000000000000000000000000000000 Dmytro Klepak <dmitrooleksandrovic33@gmail.com> 1779278295 +0200	Branch: renamed refs/heads/lab5/crud to refs/heads/main
+0000000000000000000000000000000000000000 f4536c96fc324fef2104992a6578764427a2e3ff Dmytro Klepak <dmitrooleksandrovic33@gmail.com> 1779278295 +0200	Branch: renamed refs/heads/lab5/crud to refs/heads/main
